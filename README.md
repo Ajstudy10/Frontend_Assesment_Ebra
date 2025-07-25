@@ -40,7 +40,7 @@ A sleek and responsive e-commerce application built with Next.js 14, TypeScript,
 
 1. **Clone the repository**
 ```bash
-git clone [<your-repository-url>](https://github.com/Ajstudy10/Frontend_Assesment_Ebra)
+git clone https://github.com/Ajstudy10/Frontend_Assesment_Ebra
 cd ecommerce-store
 ```
 
